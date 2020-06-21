@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6, p, div {
 }
 
 body {
-  font-family: "Lucida Grande";
+  font-family: "Calibri";
 }
 
 a {
@@ -84,14 +84,6 @@ a {
   margin-right: 5px;
 }
 
-.header-logo {
-  font-family: calibri;
-  font-size: 50px;
-  float: left;
-  color: white;
-  display: block;
-}
-
 header {
   height: 65px;
   width: 100%;
@@ -100,12 +92,6 @@ header {
   position: fixed;
   top: 0;
   z-index: 10;
-}
-
-.logo {
-  width: 50px;
-  margin-top: 5px;
-  padding-left: 5px;
 }
 
 .header-left {
@@ -131,6 +117,12 @@ header {
 
 .header-right:hover {
   background-color: rgba(255, 255, 255, 0.5);
+}
+
+.logo {
+  width: 50px;
+  margin-top: 5px;
+  padding-left: 5px;
 }
 
 .lesson-wrapper {
