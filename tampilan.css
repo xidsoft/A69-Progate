@@ -204,7 +204,7 @@ footer {
 }
 
 /* Ketik code Anda dibawah */
-.menu-icon {
+.fa.fa-bars.menu-icon {
   color: white;
   float: right;
   font-size: 25px;
