@@ -84,6 +84,14 @@ a {
   margin-right: 5px;
 }
 
+.header-logo {
+  font-family: calibri;
+  font-size: 50px;
+  float: left;
+  color: white;
+  display: block;
+}
+
 header {
   height: 65px;
   width: 100%;
