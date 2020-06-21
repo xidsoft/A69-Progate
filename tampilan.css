@@ -1,5 +1,3 @@
-/* Ketik code Anda dibaris terakhir */
-
 * {
   box-sizing: border-box;
 }
@@ -67,22 +65,12 @@ a {
   margin-right: 10px;
 }
 
-.btn {
-  padding: 12px 24px;
+.header-logo {
+  font-family: calibri;
+  font-size: 50px;
+  float: left;
   color: white;
-  display: inline-block;
-  opacity: 0.8;
-  border-radius: 4px;
-  text-align: center;
-}
-
-.btn:hover {
-  opacity: 1;
-}
-
-
-.fa {
-  margin-right: 5px;
+  display: block;
 }
 
 header {
@@ -126,6 +114,42 @@ header {
   padding-left: 5px;
 }
 
+footer img {
+  width: 200px;
+  margin-bottom: 0;
+}
+
+footer p{
+  color: #1c5fab;
+  font-size: 25px;
+  margin-top: 0;
+}
+
+footer {
+  border-top: 1px solid #eee;
+  font-family: calibri;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
 .lesson-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
@@ -145,6 +169,7 @@ header {
   font-size: 50px;
   color: #034ea2;
 }
+
 
 .lesson {
   float: left;
@@ -191,31 +216,4 @@ header {
   position: relative;
   top: 7px;
   box-shadow: none;
-}
-
-footer img {
-  width: 200px;
-  margin-bottom: 0;
-}
-
-footer p{
-  color: #1c5fab;
-  font-size: 25px;
-  margin-top: 0;
-}
-
-footer {
-  border-top: 1px solid #eee;
-  font-family: calibri;
-  padding-top: 30px;
-  padding-bottom: 20px;
-}
-
-/* Ketik code Anda dibawah */
-.fa.fa-bars.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  display: none;
 }
