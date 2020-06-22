@@ -92,11 +92,11 @@ header {
 }
 
 .header-right {
-  float: right;
-  margin-right: 0px;
-  background-color: rgba(255, 255, 255, 0.3);
-  font-family: calibri;
-  font-size: 30px;
+    float: right;
+    margin-right: 0px;
+    background-color: rgba(255, 255, 255, 0.3);
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 18px;
 }
 
 .header-right a {
