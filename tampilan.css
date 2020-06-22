@@ -73,8 +73,7 @@ a {
     float: left;
     color: white;
     display: block;
-    padding-top: 13px;
-    paddiing-left: 15px;
+    padding: 13px 15px;
 }
 
 header {
