@@ -199,6 +199,27 @@ footer {
   color: black;
 }
 
+.tambahan-banner {
+  position: relative;
+  background-color: #f7f7f7;
+}
+
+.tambahan h2 {
+  position: absolute;
+  top: 60px;
+  width: 100%;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+  opacity: 0.7;
+}
+
+.banner {
+  width: 100%;
+  margin: auto;
+  height: 170px;
+}
+
 .heading h3 {
   font-weight: normal;
 }
