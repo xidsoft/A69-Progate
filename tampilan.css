@@ -80,7 +80,8 @@ header {
     height: 65px;
     width: 100%;
     color: #034ea2;
-    background-color: #e74c3c;
+    background: url(https://cdn.pixabay.com/photo/2015/09/13/20/48/background-938721_1280.jpg);
+/*     background-color: #e74c3c; */
     position: fixed;
     top: 0;
     z-index: 10;
