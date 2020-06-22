@@ -74,13 +74,13 @@ a {
 }
 
 header {
-  height: 65px;
-  width: 100%;
-  color: #034ea2;
-  background-color: rgba(3, 78, 162, 0.9);
-  position: fixed;
-  top: 0;
-  z-index: 10;
+    height: 65px;
+    width: 100%;
+    color: #034ea2;
+    background-color: #e74c3c;
+    position: fixed;
+    top: 0;
+    z-index: 10;
 }
 
 .header-left {
@@ -206,10 +206,10 @@ footer {
 }
 
 .message {
-  padding: 15px 40px;
-  background-color: #5dca88;
-  cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+    padding: 15px 40px;
+    background-color: #e74c3c;
+    cursor: pointer;
+    box-shadow: 0 7px #c0392b;
 }
 
 .message:active {
