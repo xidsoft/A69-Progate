@@ -206,7 +206,7 @@ footer {
 .tambahan-banner {
     position: relative;
     background: url(https://cdn.pixabay.com/photo/2015/09/13/20/48/background-938721_1280.jpg);
-    height: auto;
+    height: 200px;
     background-size: cover;
 }
 
