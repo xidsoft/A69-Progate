@@ -68,11 +68,13 @@ a {
 }
 
 .header-logo {
-  font-family: calibri;
-  font-size: 50px;
-  float: left;
-  color: white;
-  display: block;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 25px;
+    float: left;
+    color: white;
+    display: block;
+    padding-top: 18px;
+    padding-left: 13px;
 }
 
 header {
